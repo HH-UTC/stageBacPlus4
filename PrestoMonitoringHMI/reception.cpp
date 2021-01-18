@@ -1,6 +1,7 @@
 #include "reception.h"
 #include <QHostAddress>
 
+
 /**
  * @brief Reception::Reception
  * @param parent
